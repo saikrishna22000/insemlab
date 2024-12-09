@@ -1,0 +1,2 @@
+# insemlab
+hibernate inheritance
